@@ -1,6 +1,9 @@
 # 프로퍼티스 제외
 # application.properties
 
+# aws 프로퍼티스
+application-aws.properties
+
 HELP.md
 .gradle
 build/
